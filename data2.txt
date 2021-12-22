@@ -1,0 +1,12 @@
+Algorithms Club
+700 750
+Computing Club
+760 810
+Java Club
+820 870
+Greedy Club
+745 765
+Recursion Club
+805 825
+Graph Club
+650 900
